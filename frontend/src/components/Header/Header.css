@@ -1,0 +1,11 @@
+Header {
+  text-align: center;
+  background: rgb(14, 73, 123);
+  background: radial-gradient(
+    circle,
+    rgba(14, 73, 123, 1) 55%,
+    rgba(2, 0, 36, 1) 100%
+  );
+  color: white;
+  padding: 0.25rem;
+}
