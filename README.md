@@ -32,3 +32,5 @@ For more information on why I used these libraries and my references please see 
 - **Axios** 
 - **body-parser** 
 - **express** 
+- **jest** 
+- **supertest** 
