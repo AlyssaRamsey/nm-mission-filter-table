@@ -1,7 +1,19 @@
 
 
+
 # Dependencies, and Scripts
 This project was developed in Visual Studio Code.
+
+## Available Scripts
+In the project directory, you can run:
+
+### `npm start`
+`npm start` **must be ran** in order for the project to work.
+The endpoint /tvshows was created to have the frontend call data from.
+Open [http://localhost:5000/tvshows](http://localhost:5000/tvshows) to view it in the browser.
+
+### `npm test`
+Uses jest to test all available test cases.<br />
 
 ## Dependencies
 ### express
@@ -19,16 +31,3 @@ I used **jest** as a means to create test to ensure certain services and functio
 
 ### supertest
 I used **supertest** as a compliment to **jest** in order to test that the server properly setup the tvshows endpoint for the front end to get data from. 
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-The endpoint /tvshows was created to have the frontend call data from.
-Open [http://localhost:5000/tvshows](http://localhost:5000/tvshows) to view it in the browser.
-
-### `npm test`
-
-Uses jest to test all available test cases.<br />
