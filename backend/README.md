@@ -7,6 +7,9 @@ This project was developed in Visual Studio Code.
 ## Available Scripts
 In the project directory, you can run:
 
+### `npm install`
+Install all necessary dependencies for the project. This must be ran before running `npm start`.
+
 ### `npm start`
 `npm start` **must be ran** in order for the project to work.
 The endpoint /tvshows was created to have the frontend call data from.
