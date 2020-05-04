@@ -20,7 +20,7 @@ Uses jest to test all available test cases.<br />
 
 ## Dependencies
 ### express
-I chose **Express** because it is a widely used framework for node.js that makes developing websites, and API's much easier. I heavily referred to Express's [official documentation](https://expressjs.com/) for developing my code.
+I chose **Express** because it is a widely used framework for node.js that makes developing websites and API's much easier. I heavily referred to Express's [official documentation](https://expressjs.com/) for developing my code.
 
 ### axios
 I used **axios** to make the call to the API I chose for this challenge. It was chosen because it is widely used, supported, and had good [documentation](https://www.npmjs.com/package/axios) on both making the request as well as how to test using jest.
