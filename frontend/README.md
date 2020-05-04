@@ -1,11 +1,14 @@
 
 
+
 # Project Generation, Dependencies, and Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This tool was chosen to create the front end side of the application because it offers quick setup of a single-page React application, and was referenced by React's [official documentation](https://reactjs.org/docs/create-a-new-react-app.html). 
 
 ## Available Scripts
 
 In the project's frontend directory, you can run:
+### `npm install`
+Install all necessary dependencies for the project. This must be ran before running `npm start`.
 
 ### `npm start`
 
